@@ -1,0 +1,20 @@
+{
+  "name": "iris",
+  "version": "0.0.1",
+  "description": "Twitter DMs you when it's going to rain",
+  "main": "app.js",
+  "dependencies": {
+    "forecast.io": "~0.0.5",
+    "twit": "~1.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivan-loh/twitter-weather-bot.git"
+  },
+  "author": "ivan loh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-loh/twitter-weather-bot/issues"
+  },
+  "homepage": "https://github.com/ivan-loh/twitter-weather-bot"
+}

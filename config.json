@@ -1,0 +1,14 @@
+{
+
+  "consumer_key": "...",
+  "consumer_secret": "...",
+  "access_token": "...",
+  "access_token_secret": "...",
+  "screen_name": "...",
+  "text": "It's going to rain!",
+
+  "forecast_key": "...",
+  "location": { "latitude": "3.1048", "longitude": "101.6920" },
+
+   "interval": 1200000
+}
